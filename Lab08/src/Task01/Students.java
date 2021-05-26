@@ -1,6 +1,6 @@
 package Task01;
 public class Students {
-
+//changes commit lab 14
 	private String result;
 	void Student(String result){
 	this.result=result;
@@ -25,6 +25,8 @@ public class Students {
 	}
 	
 	public static void main(String[] args) {
+		
+		
 		System.out.println("\t''Student Information''");
 		System.out.println("\n\tFailed in Previous!\n");
 		Students obj = new Students ();
